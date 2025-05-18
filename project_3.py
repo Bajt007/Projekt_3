@@ -1,6 +1,6 @@
 """
 project_3.py: third project in Engeto Online Python Academy, started in January 23, 2025
-author:Richard Ryzí
+author: Richard Ryzí
 email: ryzi.richard@gmail.com
 """
 
